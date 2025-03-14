@@ -18,4 +18,4 @@ JavaScript – Adding interactivity
 🔗 View my portfolio (Replace # with your live link)
 
 📩 Contact
-Feel free to connect with me on LinkedIn or via email at your@email.com.
+Feel free to connect with me on LinkedIn or via email at aleksandra.adamchik@gmail.com.
