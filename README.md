@@ -15,7 +15,7 @@ This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 - **JavaScript** – Adding interactivity  
 
 ## 🚀 Live Demo  
-[🔗 View my portfolio](#) _(Replace # with your live link)_  
+[🔗 View my portfolio](https://alexandradci.github.io/Portfolio/) _(Replace # with your live link)_  
 
 ## 📩 Contact  
 Feel free to connect with me on [LinkedIn](#) or via email at **aleksandra.adamchik@gmail.com**.  
