@@ -1,2 +1,21 @@
 # Portfolio
-👋 Hi there! I'm a front-end developer skilled in HTML, CSS, and JavaScript. I enjoy building responsive and interactive web experiences with clean, efficient code. Check out my repositories to see my latest projects!
+
+🔹 Overview
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, and experience in web development with a clean and responsive design.
+
+✨ Features
+🌍 Fully responsive design for all devices
+🎨 Smooth animations and interactive UI
+📂 Projects showcase with live links
+📬 Contact form for easy communication
+
+🛠️ Technologies Used
+HTML – Structuring the content
+CSS – Styling and responsiveness
+JavaScript – Adding interactivity
+
+🚀 Live Demo
+🔗 View my portfolio (Replace # with your live link)
+
+📩 Contact
+Feel free to connect with me on LinkedIn or via email at your@email.com.
